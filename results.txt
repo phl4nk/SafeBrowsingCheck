@@ -1,0 +1,143 @@
+{
+  "matches": [
+    {
+      "threatType": "UNWANTED_SOFTWARE",
+      "platformType": "ANY_PLATFORM",
+      "threat": {
+        "url": "mystart3.dealwifi.com"
+      },
+      "cacheDuration": "300s",
+      "threatEntryType": "URL"
+    }
+  ]
+}
+{
+  "matches": [
+    {
+      "threatType": "UNWANTED_SOFTWARE",
+      "platformType": "ANY_PLATFORM",
+      "threat": {
+        "url": "search.ozipcompression.com"
+      },
+      "cacheDuration": "300s",
+      "threatEntryType": "URL"
+    }
+  ]
+}
+{
+  "matches": [
+    {
+      "threatType": "MALWARE",
+      "platformType": "ANY_PLATFORM",
+      "threat": {
+        "url": "sopeen.com"
+      },
+      "cacheDuration": "300s",
+      "threatEntryType": "URL"
+    }
+  ]
+}
+{
+  "matches": [
+    {
+      "threatType": "UNWANTED_SOFTWARE",
+      "platformType": "ANY_PLATFORM",
+      "threat": {
+        "url": "mystart4.dealwifi.com"
+      },
+      "cacheDuration": "300s",
+      "threatEntryType": "URL"
+    }
+  ]
+}
+{
+  "matches": [
+    {
+      "threatType": "UNWANTED_SOFTWARE",
+      "platformType": "ANY_PLATFORM",
+      "threat": {
+        "url": "dealwifi.com"
+      },
+      "cacheDuration": "300s",
+      "threatEntryType": "URL"
+    }
+  ]
+}
+{
+  "matches": [
+    {
+      "threatType": "UNWANTED_SOFTWARE",
+      "platformType": "ANY_PLATFORM",
+      "threat": {
+        "url": "mystart.dealwifi.com"
+      },
+      "cacheDuration": "300s",
+      "threatEntryType": "URL"
+    }
+  ]
+}
+{
+  "matches": [
+    {
+      "threatType": "UNWANTED_SOFTWARE",
+      "platformType": "ANY_PLATFORM",
+      "threat": {
+        "url": "search.sosodesktop.com"
+      },
+      "cacheDuration": "300s",
+      "threatEntryType": "URL"
+    }
+  ]
+}
+{
+  "matches": [
+    {
+      "threatType": "UNWANTED_SOFTWARE",
+      "platformType": "ANY_PLATFORM",
+      "threat": {
+        "url": "fvpimageviewer.com"
+      },
+      "cacheDuration": "300s",
+      "threatEntryType": "URL"
+    }
+  ]
+}
+{
+  "matches": [
+    {
+      "threatType": "SOCIAL_ENGINEERING",
+      "platformType": "ANY_PLATFORM",
+      "threat": {
+        "url": "blog.dashaft.net"
+      },
+      "cacheDuration": "300s",
+      "threatEntryType": "URL"
+    }
+  ]
+}
+{
+  "matches": [
+    {
+      "threatType": "UNWANTED_SOFTWARE",
+      "platformType": "ANY_PLATFORM",
+      "threat": {
+        "url": "start.siviewer.com"
+      },
+      "cacheDuration": "300s",
+      "threatEntryType": "URL"
+    }
+  ]
+}
+{
+  "matches": [
+    {
+      "threatType": "UNWANTED_SOFTWARE",
+      "platformType": "ANY_PLATFORM",
+      "threat": {
+        "url": "mystart2.dealwifi.com"
+      },
+      "cacheDuration": "300s",
+      "threatEntryType": "URL"
+    }
+  ]
+}
